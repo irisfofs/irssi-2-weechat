@@ -1,4 +1,4 @@
-# Irssi-XChat to Weechat log converted
+# Irssi-XChat to Weechat log converter
 
 This is a script I wrote to convert IRC logs from the format that Irssi logs in to the default Weechat format. 
 
